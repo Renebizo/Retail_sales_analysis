@@ -1,2 +1,2 @@
 # Retail_sales_analysis
- sale of awesome chocolates
+ sale of awesome chocolates by different retail stores
